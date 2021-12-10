@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Android development(Kotlin)**
 
-- 👯 I’m looking to collaborate on **hackathons and open-source projects.**
+- 🤝 I’m looking to collaborate on **hackathons and open-source projects.**
 
 - 💬 Ask me about **Android development, open-source.**
 
