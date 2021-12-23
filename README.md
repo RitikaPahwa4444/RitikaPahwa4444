@@ -4,9 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ritikapahwa4444&label=Profile%20views&color=0e75b6&style=flat" alt="ritikapahwa4444" /> </p>
 
 
-
-- 🔭 I’m currently working on [Fit Friends.](https://github.com/RitikaPahwa4444/Fit_Friends.git)
-
 - 🌱 I’m currently learning **Android development(Kotlin)**
 
 - 🤝 I’m looking to collaborate on **hackathons and open-source projects.**
