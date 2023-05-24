@@ -14,6 +14,8 @@
 <p align="left">
 <a href="https://twitter.com/ritikapahwa4444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritikapahwa4444" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ritikapahwa4444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritikapahwa4444" height="30" width="40" /></a>
+<a href="https://medium.com/@RitikaPahwa4444" target="blank"><img align = "center" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/medium.svg"  alt="RitikaPahwa4444" />
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
