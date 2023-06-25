@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ritika Pahwa</h1>
-<h3 align="center">A passionate developer</h3>
-
 
 
 
@@ -8,7 +6,6 @@
 
 - 🤝 I’m looking to collaborate on **hackathons and open-source projects.**
 
-- 💬 Ask me about **Android development, open-source.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,8 +21,6 @@
     <img src="https://skillicons.dev/icons?i=git,androidstudio,kotlin,cpp,dart,flutter,figma,github,gradle,java,linux,mysql,py,r,unity" />
   </a>
 </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikapahwa4444&show_icons=true&locale=en&layout=compact" alt="ritikapahwa4444" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikapahwa4444&show_icons=true&locale=en" alt="ritikapahwa4444" /></p>
 
